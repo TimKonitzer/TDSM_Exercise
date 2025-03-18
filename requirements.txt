@@ -9,3 +9,5 @@ seaborn>=0.13.2
 statsmodels>=0.14.4
 tables>=3.10.1
 tqdm>=4.67.1
+
+torch~=2.6.0
